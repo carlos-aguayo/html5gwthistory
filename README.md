@@ -1,2 +1,1 @@
-html5gwthistory
-===============
+Demo for using GWT with HTML5 History API.
